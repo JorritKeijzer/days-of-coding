@@ -6,3 +6,4 @@ Challenging myself to learn new coding skills everyday.
 * Javascript testing (checking jest, cypress, mocha).
 * Golang HTML metadata parser.
 * C++ Arduino project TBA.
+* Build on VS code theme (Ace Sunrise) - Light theme
